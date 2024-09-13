@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Enrolled in Devops stack coarse to deepen my understanding of Getting to Know Infrastructure as Code:**
 
-- 👯 I’m looking to collaborate on **Cloud native project**
+- 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
