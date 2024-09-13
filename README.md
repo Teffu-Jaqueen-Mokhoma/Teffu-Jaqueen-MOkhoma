@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)](https://github.com/Teffu-Jaqueen-Mokhoma/)
+- 👨‍💻 All of my projects are available at (https://github.com/Teffu-Jaqueen-Mokhoma/)
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
